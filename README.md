@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm a Security Researcher
 
-<!--
-**aassamass71664-hub/aassamass71664-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Bug Bounty Hunter | CVE Finder**
 
-Here are some ideas to get you started:
+🏆 **Achievements:**
+- 🛡️ Found & Reported **GHSA-f353-q79m-j66r (RCE)** in `omacom/omarchy`
+- 🔍 Specialized in Remote Code Execution & Security Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Skills:** `Security Research` `Bug Bounty` `RCE` `GitHub Security`
+
+📫 **Contact:** aassamass71664@gmail.com
+
+---
+⭐ *Looking for collaborations & bug bounty programs*
