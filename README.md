@@ -1,6 +1,6 @@
-### Hi there 👋 I'm a Security Researcher
+### Hi there, I'm Essam 👋
 
-🔐 **Bug Bounty Hunter | CVE Finder**
+🔐 **Security Researcher | Bug Bounty Hunter | CVE Finder**
 
 🏆 **Achievements:**
 - 🛡️ Found & Reported **GHSA-f353-q79m-j66r (RCE)** in `omacom/omarchy`
@@ -11,4 +11,4 @@
 📫 **Contact:** aassamass71664@gmail.com
 
 ---
-⭐ *Looking for collaborations & bug bounty programs*
+⭐ *Passionate about finding vulnerabilities & securing the web*
